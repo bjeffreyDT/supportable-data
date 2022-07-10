@@ -1,0 +1,437 @@
+[
+{
+"code": "us-mn-001",
+"name": "Aitkin County, MN",
+"value": 9.1
+},
+{
+"code": "us-mn-003",
+"name": "Anoka County, MN",
+"value": 3.5
+},
+{
+"code": "us-mn-005",
+"name": "Becker County, MN",
+"value": 5.7
+},
+{
+"code": "us-mn-007",
+"name": "Beltrami County, MN",
+"value": 5.9
+},
+{
+"code": "us-mn-009",
+"name": "Benton County, MN",
+"value": 5.6
+},
+{
+"code": "us-mn-011",
+"name": "Big Stone County, MN",
+"value": 6.8
+},
+{
+"code": "us-mn-013",
+"name": "Blue Earth County, MN",
+"value": 3.3
+},
+{
+"code": "us-mn-015",
+"name": "Brown County, MN",
+"value": 5.2
+},
+{
+"code": "us-mn-017",
+"name": "Carlton County, MN",
+"value": 5.9
+},
+{
+"code": "us-mn-019",
+"name": "Carver County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-021",
+"name": "Cass County, MN",
+"value": 8.8
+},
+{
+"code": "us-mn-023",
+"name": "Chippewa County, MN",
+"value": 5
+},
+{
+"code": "us-mn-025",
+"name": "Chisago County, MN",
+"value": 4.9
+},
+{
+"code": "us-mn-027",
+"name": "Clay County, MN",
+"value": 4
+},
+{
+"code": "us-mn-029",
+"name": "Clearwater County, MN",
+"value": 14.2
+},
+{
+"code": "us-mn-031",
+"name": "Cook County, MN",
+"value": 5.8
+},
+{
+"code": "us-mn-033",
+"name": "Cottonwood County, MN",
+"value": 4.2
+},
+{
+"code": "us-mn-035",
+"name": "Crow Wing County, MN",
+"value": 6.3
+},
+{
+"code": "us-mn-037",
+"name": "Dakota County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-039",
+"name": "Dodge County, MN",
+"value": 4.4
+},
+{
+"code": "us-mn-041",
+"name": "Douglas County, MN",
+"value": 4.1
+},
+{
+"code": "us-mn-043",
+"name": "Faribault County, MN",
+"value": 5.3
+},
+{
+"code": "us-mn-045",
+"name": "Fillmore County, MN",
+"value": 4.9
+},
+{
+"code": "us-mn-047",
+"name": "Freeborn County, MN",
+"value": 4.4
+},
+{
+"code": "us-mn-049",
+"name": "Goodhue County, MN",
+"value": 4
+},
+{
+"code": "us-mn-051",
+"name": "Grant County, MN",
+"value": 6.2
+},
+{
+"code": "us-mn-053",
+"name": "Hennepin County, MN",
+"value": 2.9
+},
+{
+"code": "us-mn-055",
+"name": "Houston County, MN",
+"value": 4.7
+},
+{
+"code": "us-mn-057",
+"name": "Hubbard County, MN",
+"value": 7.9
+},
+{
+"code": "us-mn-059",
+"name": "Isanti County, MN",
+"value": 5.7
+},
+{
+"code": "us-mn-061",
+"name": "Itasca County, MN",
+"value": 7.5
+},
+{
+"code": "us-mn-063",
+"name": "Jackson County, MN",
+"value": 3.9
+},
+{
+"code": "us-mn-065",
+"name": "Kanabec County, MN",
+"value": 9.6
+},
+{
+"code": "us-mn-067",
+"name": "Kandiyohi County, MN",
+"value": 4.4
+},
+{
+"code": "us-mn-069",
+"name": "Kittson County, MN",
+"value": 4.4
+},
+{
+"code": "us-mn-071",
+"name": "Koochiching County, MN",
+"value": 6.7
+},
+{
+"code": "us-mn-073",
+"name": "Lac qui Parle County, MN",
+"value": 5.5
+},
+{
+"code": "us-mn-075",
+"name": "Lake County, MN",
+"value": 4.7
+},
+{
+"code": "us-mn-077",
+"name": "Lake of the Woods County, MN",
+"value": 4.4
+},
+{
+"code": "us-mn-079",
+"name": "Le Sueur County, MN",
+"value": 7.3
+},
+{
+"code": "us-mn-081",
+"name": "Lincoln County, MN",
+"value": 5.1
+},
+{
+"code": "us-mn-083",
+"name": "Lyon County, MN",
+"value": 4.1
+},
+{
+"code": "us-mn-085",
+"name": "McLeod County, MN",
+"value": 4.5
+},
+{
+"code": "us-mn-087",
+"name": "Mahnomen County, MN",
+"value": 6.6
+},
+{
+"code": "us-mn-089",
+"name": "Marshall County, MN",
+"value": 10.4
+},
+{
+"code": "us-mn-091",
+"name": "Martin County, MN",
+"value": 3.9
+},
+{
+"code": "us-mn-093",
+"name": "Meeker County, MN",
+"value": 5.4
+},
+{
+"code": "us-mn-095",
+"name": "Mille Lacs County, MN",
+"value": 8.1
+},
+{
+"code": "us-mn-097",
+"name": "Morrison County, MN",
+"value": 8.4
+},
+{
+"code": "us-mn-099",
+"name": "Mower County, MN",
+"value": 3.4
+},
+{
+"code": "us-mn-101",
+"name": "Murray County, MN",
+"value": 6.8
+},
+{
+"code": "us-mn-103",
+"name": "Nicollet County, MN",
+"value": 2.9
+},
+{
+"code": "us-mn-105",
+"name": "Nobles County, MN",
+"value": 3.9
+},
+{
+"code": "us-mn-107",
+"name": "Norman County, MN",
+"value": 6.3
+},
+{
+"code": "us-mn-109",
+"name": "Olmsted County, MN",
+"value": 3
+},
+{
+"code": "us-mn-111",
+"name": "Otter Tail County, MN",
+"value": 5.9
+},
+{
+"code": "us-mn-113",
+"name": "Pennington County, MN",
+"value": 8
+},
+{
+"code": "us-mn-115",
+"name": "Pine County, MN",
+"value": 8.1
+},
+{
+"code": "us-mn-117",
+"name": "Pipestone County, MN",
+"value": 5.1
+},
+{
+"code": "us-mn-119",
+"name": "Polk County, MN",
+"value": 4.8
+},
+{
+"code": "us-mn-121",
+"name": "Pope County, MN",
+"value": 4.1
+},
+{
+"code": "us-mn-123",
+"name": "Ramsey County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-125",
+"name": "Red Lake County, MN",
+"value": 8.2
+},
+{
+"code": "us-mn-127",
+"name": "Redwood County, MN",
+"value": 5.5
+},
+{
+"code": "us-mn-129",
+"name": "Renville County, MN",
+"value": 5.8
+},
+{
+"code": "us-mn-131",
+"name": "Rice County, MN",
+"value": 3.6
+},
+{
+"code": "us-mn-133",
+"name": "Rock County, MN",
+"value": 3.3
+},
+{
+"code": "us-mn-135",
+"name": "Roseau County, MN",
+"value": 5.5
+},
+{
+"code": "us-mn-137",
+"name": "St. Louis County, MN",
+"value": 4.9
+},
+{
+"code": "us-mn-139",
+"name": "Scott County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-141",
+"name": "Sherburne County, MN",
+"value": 4.7
+},
+{
+"code": "us-mn-143",
+"name": "Sibley County, MN",
+"value": 4.8
+},
+{
+"code": "us-mn-145",
+"name": "Stearns County, MN",
+"value": 4.2
+},
+{
+"code": "us-mn-147",
+"name": "Steele County, MN",
+"value": 4.1
+},
+{
+"code": "us-mn-149",
+"name": "Stevens County, MN",
+"value": 3.4
+},
+{
+"code": "us-mn-151",
+"name": "Swift County, MN",
+"value": 5.8
+},
+{
+"code": "us-mn-153",
+"name": "Todd County, MN",
+"value": 5.7
+},
+{
+"code": "us-mn-155",
+"name": "Traverse County, MN",
+"value": 5.2
+},
+{
+"code": "us-mn-157",
+"name": "Wabasha County, MN",
+"value": 4.3
+},
+{
+"code": "us-mn-159",
+"name": "Wadena County, MN",
+"value": 7.9
+},
+{
+"code": "us-mn-161",
+"name": "Waseca County, MN",
+"value": 6.7
+},
+{
+"code": "us-mn-163",
+"name": "Washington County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-165",
+"name": "Watonwan County, MN",
+"value": 5.2
+},
+{
+"code": "us-mn-167",
+"name": "Wilkin County, MN",
+"value": 3.9
+},
+{
+"code": "us-mn-169",
+"name": "Winona County, MN",
+"value": 3.1
+},
+{
+"code": "us-mn-171",
+"name": "Wright County, MN",
+"value": 4.3
+},
+{
+"code": "us-mn-173",
+"name": "Yellow Medicine County, MN",
+"value": 4.5
+}
+]
